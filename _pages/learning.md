@@ -1,12 +1,12 @@
 ---
-permalink: /learning_curve/
-title: "Learning Curve"
+permalink: /learning/
+title: "Teaching and Learning"
 author_profile: true
 redirect_from: 
-  - /learning_curve.html
-  - /learning_curve.md
+  - /learning.html
+  - /learning.md
 ---
-<!-- About Aditya -->
+<!-- About Rakshitha -->
 
 # Teaching
 ## **Positions**

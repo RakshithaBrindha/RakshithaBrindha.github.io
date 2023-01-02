@@ -3,20 +3,15 @@ main:
   - title: "Projects"
     url: /portfolio/
 
-   - title: "CV"
-      url: /cv/  
+  - title: "CV"
+    url: /cv/  
 
-  - title: ""Teaching and Learning""
+  - title: "Teaching and Learning"
     url: /learning/  
     
   - title: "Currently"
     url: /now/  
-  
-
-
-    
-
-        
+          
 #- title: "Blog Posts"
 #  url: /year-archive/
     
