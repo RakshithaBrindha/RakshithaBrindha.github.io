@@ -19,33 +19,34 @@ collection: portfolio
 
 ## Covid Data Analysis
 
-* This project aims in data processing and analysing Covid data
+* **Purpose:** This project aims in Data Pocessing, Analysing and Visualizing of Covid data.
 
-* After the ML Model is created, we use transfer learning, with workflow as shown below:
-
-* **Skills:** Python: Pandas, Numpy
+* **Skills:** Python: Pandas, Numpy, Scikit-learn, Mathplot
 
 * Project link: [click here](https://github.com/RakshithaBrindha/pythonAnalysis/tree/main/covidDataAnalysis)
 
 
-## Movie Recommendations
+## Movie Recommendation system
 
-* **Purpose:** It's Saturday night, and you want to watch a movie, you run out of idea. Here's a solution.
-* **Methodology**: exploratory data analysis and created machine learning algorithm for prediction of similar likeliness of movies.
+* **Purpose:** If you're stuck for movie ideas on a Saturday night, here's a solution.
+
+* **Methodology**: Data cleaning and analysis. Also created machine learning algorithm (content based filtering) for predictions of similar likeliness of movies.
+
+* **Skills:** Python: Pandas, Numpy, Scikit learn
 
 * Project Link [click here](https://github.com/RakshithaBrindha/pythonAnalysis/tree/main/movieRecommendation)
 
 ## WordCloud
 
-* The purpose of this project is to analyze the most recurrent word.
+* **Purpose:** The purpose of this project is to analyze and visualize the most recurrent word as a Word Cloud
 
-* **Technologies/Tools:** Python, Matplotlib
+* **Technologies/Tools:** Python: Matplotlib, Pandas, NLTK
 
 * Project Link [click here](https://github.com/RakshithaBrindha/pythonAnalysis/tree/main/wordCloud)
 
 ## Analysing Titanic survior data
 
-* **Purpose**: to analyze about the survival rate in Titanic
+* **Purpose**: To analyze about the survival rate in Titanic and answer various hypothesis. 
 
 * **Skills:** Python: Pandas, Numpy, Tableau
 
@@ -54,29 +55,35 @@ collection: portfolio
 Screenshot of Tableau Dashboard
 ![Tableau analysis](../images/TitanicDataAnalysisUsingTableau.png)
 
-
-* Please check the complete report: [click here](https://adityam582.github.io/files/CSSProjectReport.pdf)
-
 # Research-driven Projects
 
 ## Digital Consumer Behavior
 
-* **Title**:
+* **Title**: How E-Trust influence online retail environment in a positive way?
 
 ## Research Lab
 
-* **Title**: 
+* **Title**: Skicky Fake News
 
-* **Abstract:** 
+* **Abstract:** We perform a study on the differential diffusion of fake political and gossip news stories distributed on Twitter as well as opinion mining on the social context of these news pieces. The data comprises FakeNewsNet, a versatile dataset containing fake and true news pieces. We find that fake political stories diffuse farther and significantly faster than fake gossip stories. However, when it comes to the total number of users involved (including followers) fake gossip stories seem to have higher numbers than fake political stories. We also found that the general sentiment of direct Tweets for political news is more negative whereas for gossip news it was neutral. This changed when examining the replies to these Tweets where political news had an overall neutral sentiment, whereas gossip news was related with a more positive sentiment. We interpret this as a possible enjoyment of fake gossip stories. [Click Here](https://drive.google.com/file/d/1SwDzhCQDBWdSt3E10e5UUxYx1dDolnDt/view) 
 
-## Big Data
+* **Results**
 
-* **Title**:
+Sentiment Analysis
+![Sentiment Analysis](../images/SentimentAnalysis.png)
 
-## ICT and Behavior Change
+## Seminar
+
+* **Title**: Wikipedia Article - Nomintions for Deletion (Gender bias)
+
+* **Skills:** Python: Pandas, Numpy, Beautiful Soup
+
+* **Results**
+Nomination for deletion
+![Nomination for deletion](../images/Nomination_deletion.png)
 
 ## Master Thesis 
 
-* **Title**: Graph Representation Learning for Software Engineering
+* **Title**: Towards Explainable Creativity - Remote Association Test
 
-* Work-in-progress, coming soon here
+* Project Link: [Click Here](https://github.com/RakshithaBrindha/masterThesis)
