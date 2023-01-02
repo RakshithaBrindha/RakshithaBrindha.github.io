@@ -27,7 +27,7 @@ redirect_from:
 | Focus  | Provider 	| Year 	| Expiry 	| Link 	|
 |---	|---	|---	|---	|---	|
 | AWS Cloud Practitioner 	| AWS 	|   |   |   |
-| Google Analytics 	| Coursera-Google 	| 2022  |   |   |
+| Google Analytics 	| Coursera-Google 	| 2022  |   | https://coursera.org/share/ec70c985e882ae7cce91f2932a798c16  |
 | Data Visualization 	| Kaggle 	| 	|  	|  	|
 | Introduction to SQL 	| Kaggle 	| 	|  	| 	|
 | Pandas 	| Kaggle 	|  	|  	|  |
