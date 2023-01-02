@@ -12,5 +12,5 @@ This is the front page of a website that is powered by the [academicpages templa
 
 About me
 ======
-A 25 year old recent Master graduate from southern coastal area in India. My urge to learn new things made me move to Germany where I did a master program
+A 25 year old recent Master graduate from southern coastal area in India. My urge to learn new things made me move to Germany where I did a master program. I have completed [Google Analytical Course](https://coursera.org/share/ec70c985e882ae7cce91f2932a798c16)
 
