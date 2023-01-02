@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! I am Rakshitha, a 25 year old recent Master graduate from Tamil Nadu which is a semi-coastal state in Southern India. I graduated with my Bachelor’s in Information Technology in India, and moved to Germany for nearly 4 years now. I have always been in awe in the advancements of Information Technology. Seeing that a simple google search can retrieve a piece of information or an AI can solve chess games, make musical notes and even write and solve riddles, or a simple chart can help a company grow and the various other functionalities in computer science instilled a desire in me to be part of this futuristic field. This motivated me to pursue my masters in the field of Computer Science. 
+
+Apart from my education, I have a huge interest in hiking and backpacking, diving and exploring new cultures and food. Something interesting: I have a pet tortoise and I am a certified scuba diver. 
+
+
+
+I have completed [Google Analytical Course](https://coursera.org/share/ec70c985e882ae7cce91f2932a798c16)
 
 About me
 ======
-A 25 year old recent Master graduate from southern coastal area in India. My urge to learn new things made me move to Germany where I did a master program. I have completed [Google Analytical Course](https://coursera.org/share/ec70c985e882ae7cce91f2932a798c16)
-
