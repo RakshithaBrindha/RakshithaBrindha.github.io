@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rakshitha Gnanasekaran/ Digital Portfolio"
+title                    : "Rakshitha Gnanasekaran"
 title_separator          : "-"
 name                     : &name "Rakshitha Gnanasekaran"
 description              : &description "personal description"
-url                      : https://RakshithaBrindha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://RakshithaBrindha.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RakshithaBrindha/RakshithaBrindha.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
