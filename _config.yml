@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rakshitha Gnanasekaran"
   avatar           : "profile_pic.jpg"
-  bio              : "Data Driven"
-  location         : "Koblenz"
+  bio              : "Junior Data Engineer"
+  location         : "Potsdam"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "gnanasekaranrakshitha@gmail.com"
+  email            : "raksh.sekaran@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
